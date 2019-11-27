@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.3.2",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "vue-grid-layout": "git+https://github.com/rokiyama/vue-grid-layout.git#4ccd949f78aee8a005219303be2a46e5294038a0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
